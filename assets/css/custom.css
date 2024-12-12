@@ -1,0 +1,15 @@
+.logo{
+    width: 100px;
+}
+
+.navbar {
+    background: blue;
+}
+footer {
+    background: blue;
+    color: white;
+    padding: 1.5rem;
+}
+#navbarSupportedContent{
+ margin-left: 15rem;   
+}

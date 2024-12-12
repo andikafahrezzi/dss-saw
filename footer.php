@@ -1,7 +1,7 @@
 
 <hr>
 <hr>
-<footer class="text-center">&copy; 2018</footer>
+<footer class="text-center">&copy; 2024</footer>
 
     <script type="text/javascript" src="assets/js/jquery-3.3.1.min.js"></script>
     <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
