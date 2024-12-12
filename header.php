@@ -8,6 +8,13 @@
   <link rel="stylesheet" href="assets/css/dataTables.bootstrap4.min.css">
   <link rel="stylesheet" href="assets/css/font-awesome/css/fontawesome-all.css">
 </head>
+<?php
+session_start();
+if ($_SESSION['status'] != 'login') {
+    header('location:login.php');
+}
+?>
+
 <body>
 
 <nav class="navbar navbar-expand-lg">
@@ -33,6 +40,9 @@
       </li>
       <li class="nav-item">
         <a class="nav-link text-white" href="rangking.php">Rangking</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link text-white" href="logout.php" id="logout"><i class="fas fa-user"></i> Logout</a>
       </li>
     </ul>
     </div>

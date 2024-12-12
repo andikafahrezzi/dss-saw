@@ -7,9 +7,10 @@ $index2 = mysqli_query($koneksi,"SELECT * FROM alternatif");
 	<br>
 	<div class="container">
 	  <h1 class="display-5 text-center" id="judul">
-	  	  Sistem Pendukung Keputusan Metode SAW <br>(Simple Additive Weighting)
+      Implementasi Metode Simple Additive Weighting (SAW) untuk Pemilihan Kota Wisata Terbaik bagi Warga Jakarta
+
       </h1>
-	   <p class="text-justify"> Simple Additive Weighting (SAW) Salah satu metode yang digunakan untuk menyelesaikan masalah dari Fuzzy Multiple Attribute Decision Making ( FMADM ) adalah metode Simple Additive Weighting (SAW) yaitu suatu metode yang digunakan untuk mencari alternatif optimal dari sejumlah alternatif dengan kriteria tertentu.</p>
+	   <p class="text-justify"> Metode SAW adalah salah satu metode yang sering digunakan dalam SPK untuk menentukan alternatif terbaik dari sejumlah alternatif berdasarkan beberapa kriteria yang telah ditentukan. Konsep dasar dari metode ini adalah mencari penjumlahan terbobot dari nilai setiap alternatif pada semua kriteria. Dengan kata lain, setiap kriteria diberikan bobot yang menunjukkan tingkat kepentingannya, kemudian nilai setiap alternatif pada masing-masing kriteria dikalikan dengan bobotnya, dan hasilnya dijumlahkan. Alternatif dengan nilai total tertinggi dianggap sebagai alternatif terbaik.</p>
 	</div>
 	<br>
 	<div style="width: 700px; box-sizing: border-box; margin: 0 auto;">
