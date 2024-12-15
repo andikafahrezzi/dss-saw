@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title>SAW</title>
+  <link rel="icon" href="assets/image/logo.png">    
   <link rel="stylesheet" href="assets/css/bootstrap.css">
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="assets/css/custom.css">

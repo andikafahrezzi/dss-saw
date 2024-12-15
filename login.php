@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login - SAW</title>
+    <link rel="icon" href="assets/image/logo.png">    
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/custom.css">
     <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
