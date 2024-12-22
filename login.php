@@ -26,13 +26,13 @@
                 <!-- </div> -->
             </div>
             <div class="v">
-                <div class="z" id="ket">Team</div>
+                <div class="z" id="ket"> Team7</div>
                 <div class="x" id="ket">Log in</div>
                 <form action="login-act.php" method="post">
                 <div class="em" id="ket">Username</div>
-                <input type="text" id="emi" class="form-control form-control-xl" placeholder="Username" name="username">
+                <input type="text" id="emi" class="form-control form-control-xl" placeholder="Username" name="username" required>
                 <div class="ep" id="ket">Password</div>
-                <input type="password" id="epi" class="form-control form-control-xl" placeholder="Password" name="password">
+                <input type="password" id="epi" class="form-control form-control-xl" placeholder="Password" name="password" require>
                 <button class="lb btn btn-primary btn-block btn-lg shadow-lg mt-5 text-white" type="submit">Login</button>
                 </form>
                 

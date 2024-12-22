@@ -13,6 +13,8 @@ if ($cek > 0) {
     $_SESSION['status'] = "login";
     header("location:index.php");
 } else {
+    $_SESSION['alert'] = "password atau username salah";
+    echo "<script>alert('gagallogin');</script>";
     header("location:login.php");
 }
 ?>
