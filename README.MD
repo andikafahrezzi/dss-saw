@@ -2,6 +2,11 @@
 
 Aplikasi website ini merupakan implementasi metode **Simple Additive Weighting (SAW)** untuk membantu warga Jakarta menentukan kota wisata terbaik berdasarkan beberapa kriteria yang telah ditentukan.
 
+
+##Login :
+username : admin
+password : admin
+
 ## 📌 Deskripsi Proyek
 Website ini dirancang menggunakan **native PHP** tanpa framework tambahan. Sistem mendukung proses penilaian dan perhitungan SAW dengan menyediakan antarmuka yang intuitif dan mudah digunakan.
 
